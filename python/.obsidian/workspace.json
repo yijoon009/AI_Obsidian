@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/function.md",
+                "file": "python/Data Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "112bc48627f94c5e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1275e9410dbb945c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/function.md",
+                "file": "python/Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/function.md",
+                "file": "python/Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/function.md"
+                "file": "python/Data Structure.md"
               }
             }
           }
@@ -176,6 +162,8 @@
   "active": "223c7287233f608e",
   "lastOpenFiles": [
     "python/list.md",
+    "python/추가정보.md",
+    "python/Data Structure.md",
     "python/function.md",
     "Welcome.md",
     "python"
