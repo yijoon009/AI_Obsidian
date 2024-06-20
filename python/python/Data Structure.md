@@ -89,14 +89,47 @@ for k, v in country_code.items():
 - 82 in country_code.values() : value값에 82가 있는지 확인
 
 ### Collections
-- deque
-	- stack과 queue를 지원
-	- list에 비해 빠른 자료저장 방식
-	- rotate, reverse등 linked list의 특성을 지원함
+
+#### deque
+- stack과 queue를 지원
+- list에 비해 빠른 자료저장 방식
+- rotate, reverse등 linked list의 특성을 지원함
 ```python
 from collections import deque
 
 deque_list = deque()
 for i in range(5):
 	deque_list.append(i)
+```
+
+#### defaultdict
+- dict type의 값에 기본 값을 지정, 신규값 생성시 사용하는 방법
+```python
+d = dict()
+print(d["first"])
+-> keyError: 'first'
+```
+
+```python
+from collections import defaultdict
+
+d = defaultdict(object) # default dectionary를 생성
+d = defaultdict(lambda: 0) # default 값을 0으로 설정
+print(d["first"])
+```
+
+#### Counter
+- sequence type의 data element들의 갯수를 dict 형태로 반환
+```python
+from collections import Counter
+c = Counter()
+c = Counter("gallahad")
+print(c)
+-> Counter({'a': 3, 'l': 2, 'g': 1, 'h': 1, 'd': 1})
+```
+
+```python
+c = Counter({'red':4, 'blue':6})
+print(list(c.elements()))
+-> ['red', 'red', 'red', 'red', 'blue', 'blue', 'blue', 'blue', 'blue', 'blue']
 ```
