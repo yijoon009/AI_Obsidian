@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Data Structure.md",
+                "file": "python/가변인자 (variable-length).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Data Structure.md",
+                "file": "python/가변인자 (variable-length).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Data Structure.md",
+                "file": "python/가변인자 (variable-length).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Data Structure.md"
+                "file": "python/가변인자 (variable-length).md"
               }
             }
           }
@@ -161,9 +161,14 @@
   },
   "active": "223c7287233f608e",
   "lastOpenFiles": [
+    "python/generator.md",
+    "python/가변인자 (variable-length).md",
+    "python/reduce function.md",
+    "python/lambda - python3 권장X.md",
+    "python/Data Structure.md",
+    "python/Two dimensional vs One dimensional.md",
     "python/list.md",
     "python/추가정보.md",
-    "python/Data Structure.md",
     "python/function.md",
     "Welcome.md",
     "python"

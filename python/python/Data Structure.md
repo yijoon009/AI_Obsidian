@@ -133,3 +133,4 @@ c = Counter({'red':4, 'blue':6})
 print(list(c.elements()))
 -> ['red', 'red', 'red', 'red', 'blue', 'blue', 'blue', 'blue', 'blue', 'blue']
 ```
+
