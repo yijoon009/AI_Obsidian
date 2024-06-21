@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/가변인자 (variable-length).md",
+                "file": "python/Asterisk.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/가변인자 (variable-length).md",
+                "file": "python/Asterisk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/가변인자 (variable-length).md",
+                "file": "python/Asterisk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/가변인자 (variable-length).md"
+                "file": "python/Asterisk.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "223c7287233f608e",
   "lastOpenFiles": [
-    "python/generator.md",
     "python/가변인자 (variable-length).md",
+    "python/Asterisk.md",
+    "python/generator.md",
     "python/reduce function.md",
     "python/lambda - python3 권장X.md",
     "python/Data Structure.md",
