@@ -5,6 +5,7 @@
 
 ### Stack
 
+- 후입선출
 ```python
 word = input('enter your word: ')
 word_list = list(word)
@@ -29,6 +30,7 @@ n
 []
 ```
 ### Queue
+- 선입선출
 
 ```python
 a = [1,2,3,4,5]
