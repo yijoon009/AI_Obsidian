@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adf22c96efdedcf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "223c7287233f608e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Asterisk.md",
+                "file": "python/가변인자 (variable-length).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Asterisk.md",
+                "file": "python/가변인자 (variable-length).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Asterisk.md",
+                "file": "python/가변인자 (variable-length).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Asterisk.md"
+                "file": "python/가변인자 (variable-length).md"
               }
             }
           }
@@ -161,8 +148,9 @@
   },
   "active": "223c7287233f608e",
   "lastOpenFiles": [
-    "python/가변인자 (variable-length).md",
     "python/Asterisk.md",
+    "python/가변인자 (variable-length).md",
+    "Welcome.md",
     "python/generator.md",
     "python/reduce function.md",
     "python/lambda - python3 권장X.md",
@@ -171,7 +159,6 @@
     "python/list.md",
     "python/추가정보.md",
     "python/function.md",
-    "Welcome.md",
     "python"
   ]
 }
