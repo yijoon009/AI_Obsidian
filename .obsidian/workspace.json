@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "c873a1eb00da93fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "84faf6a34b1f3b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5903ae367959d7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python/pandas/pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca517ded0e6ba575",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c785b99b0754a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f86def4b4c93b45d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c97bb718a31cdb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44cfb60a3a94b914",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "201b31eb883190bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e54e29315ee5d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ade1220b56cc97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/python/pandas/pandas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d14e6f2c2e2f660",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python/python/pandas/pandas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f66a38c56cbf7fd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d89b480c1daee38d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/python/pandas/pandas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "5903ae367959d7df",
+  "lastOpenFiles": [
+    "python/python/numpy/boolean index, fancy index.md",
+    "python/python/pandas/pandas.md",
+    "python/python/pandas",
+    "python/python/numpy/where.md",
+    "python/python/numpy/all & any.md",
+    "python/python/가상 환경/conda 가상환경.md",
+    "python/python/기본 이론/가변인자 (variable-length).md",
+    "python/python/numpy",
+    "python/python/기본 이론/추가정보.md",
+    "python/python/기본 이론/Asterisk.md",
+    "python/python/기본 이론/Data Structure.md",
+    "python/python/클래스와 객체/Class.md",
+    "python/python/클래스와 객체/module.md",
+    "python/python/클래스와 객체/Wrapper.md",
+    "python/python/기본 이론/Two dimensional vs One dimensional.md",
+    "python/Welcome.md",
+    "python/python/pickle.md",
+    "python/python/os.md",
+    "python/python/logging.md",
+    "python/python/file.md",
+    "python/python/기본 이론/reduce function.md"
+  ]
+}
